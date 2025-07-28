@@ -1,0 +1,8 @@
+# Java build
+/services/java-todo-service/target/
+# Node build
+/node_modules/
+/dist/
+# IDE & OS files
+.vscode/
+*.log
