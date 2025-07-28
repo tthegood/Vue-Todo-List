@@ -1,4 +1,4 @@
-# Vue Todo Monorepo
+# Vue Todo List
 
 A small monorepo combining:
 
